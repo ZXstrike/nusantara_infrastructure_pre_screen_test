@@ -1,16 +1,16 @@
-# nusantara_infrastructure_pre_screen_test
+# Naufal Hussain Al-Thaariq 
+ 
+ mobile app that created from flutter and using this api : https://drive.google.com/file/d/12D8Q5qJ3Bv1G6m3Evyh2_Eg86pBCSujI/view?usp=share_link as backend.
 
-A new Flutter project.
+1. Registrasi
+2. Login dan Logout
+3. CRUD (Create, Read, Update and Delete)
+4. Mobile Responsive
+5. Menggunakan state management GetX
+6. Menggunakan Dio sebagai network services
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Added Package: 
+ - get: ^4.6.6
+ - dio: ^5.4.0
+ - shared_preferences: ^2.2.2
+ - intl: ^0.19.0
